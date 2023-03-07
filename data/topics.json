@@ -1,0 +1,105 @@
+{
+	"name": "topics",
+	"children": [
+		{
+			"name": "Scalability",
+			"children": [{
+					"name": "Scaling Coding Practices",
+					"value": 50
+				},
+				{
+					"name": "Automated Tests",
+					"children": [{
+							"name": "Types of Automated Tests",
+							"value": 50
+						},
+						{
+							"name": "Test Doubles",
+							"value": 50
+						},
+						{
+							"name": "Test-driven Development (TDD)",
+							"value": 50
+						},
+						{
+							"name": "Automated Testing Best Practices",
+							"value": 50
+						}
+					]
+				},
+				{
+					"name": "Split up the Code",
+					"value": 50
+				},
+				{
+					"name": "Interfaces and Modules",
+					"value": 50
+				},
+				{
+					"name": "Versioned Artifacts",
+					"value": 50
+				},
+				{
+					"name": "Services",
+					"value": 50
+				},
+				{
+					"name": "Code Reviews",
+					"value": 50
+				},
+				{
+					"name": "Design Reviews",
+					"value": 50
+				},
+				{
+					"name": "Pair Programming",
+					"value": 50
+				},
+				{
+					"name": "Pre-commit Reviews",
+					"value": 50
+				},
+				{
+					"name": "Static Analysis",
+					"value": 50
+				},
+				{
+					"name": "Code Review Best Practices",
+					"value": 50
+				},
+				{
+					"name": "Documentation",
+					"children": [{
+							"name": "Written Documentation",
+							"value": 50
+						},
+						{
+							"name": "Code Documentation",
+							"value": 50
+						},
+						{
+							"name": "Community Documentation",
+							"value": 50
+						},
+						{
+							"name": "Readme-driven Development",
+							"value": 50
+						}
+					]
+				},
+				{
+					"name": "Scaling Performance",
+					"value": 50
+				},
+				{
+					"name": "Measure",
+					"value": 50
+				},
+				{
+					"name": "Optimize",
+					"value": 50
+				}
+			]
+		}
+	]
+}
